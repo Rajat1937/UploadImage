@@ -1,0 +1,8 @@
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\bin\FancyImageUploader.dll.config
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\bin\FancyImageUploader.dll
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\bin\FancyImageUploader.pdb
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\bin\EntityFramework.dll
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\bin\EntityFramework.xml
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\obj\Debug\FancyImageUploader.csprojResolveAssemblyReference.cache
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\obj\Debug\FancyImageUploader.dll
+D:\Zf in Action\ASP\DemoImage\FancyImageUploader\obj\Debug\FancyImageUploader.pdb
